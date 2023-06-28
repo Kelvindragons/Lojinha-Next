@@ -3,7 +3,7 @@ import Menu from "@/components/Menu"
 import Rodape from "@/components/Rodape"
 
 export const metadata = {
-  title: 'Everton Store',
+  title: 'Kelvin Store',
   description: 'Compre tudo que você precisa de A à Z',
 }
 
